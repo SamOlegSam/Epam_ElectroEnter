@@ -1,0 +1,11 @@
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.exe
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.deps.json
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.runtimeconfig.json
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.runtimeconfig.dev.json
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.dll
+D:\Projects\Electro\bin\Debug\netcoreapp3.0\Electro.pdb
+D:\Projects\Electro\obj\Debug\netcoreapp3.0\Electro.csprojAssemblyReference.cache
+D:\Projects\Electro\obj\Debug\netcoreapp3.0\Electro.AssemblyInfoInputs.cache
+D:\Projects\Electro\obj\Debug\netcoreapp3.0\Electro.AssemblyInfo.cs
+D:\Projects\Electro\obj\Debug\netcoreapp3.0\Electro.dll
+D:\Projects\Electro\obj\Debug\netcoreapp3.0\Electro.pdb
